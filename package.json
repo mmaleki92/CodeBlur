@@ -1,14 +1,30 @@
 {
-  "name": "code-blur",
+  "name": "codeblur",
   "displayName": "Code Blur",
   "description": "Apply blur effects to selected code sections for focused learning",
-  "version": "1.0.0",
-  "publisher": "code-blur",
+  "version": "0.1.0",
+  "publisher": "MortezaMaleki",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Other"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmaleki92/codeblur.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmaleki92/codeblur/issues"
+  },
+  "homepage": "https://github.com/mmaleki92/codeblur#readme",
+  "license": "MIT",
+  "keywords": [
+    "blur",
+    "learning",
+    "code focus",
+    "visualization",
+    "code reading"
   ],
   "activationEvents": [
     "onStartupFinished"
@@ -96,6 +112,5 @@
     "eslint": "^7.27.0",
     "typescript": "^4.3.2",
     "vsce": "^1.100.0"
-  },
-  "license": "MIT"
+  }
 }
