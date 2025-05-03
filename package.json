@@ -2,7 +2,7 @@
   "name": "codeblur",
   "displayName": "Code Blur",
   "description": "Apply blur effects to selected code sections for focused learning",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MortezaMaleki",
   "engines": {
     "vscode": "^1.60.0"
