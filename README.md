@@ -13,10 +13,12 @@ A Visual Studio Code extension that lets you apply blur effects to selected code
 ## Usage
 
 ### Applying Blur
+1. Select a the code blur from the sidebar
+2. Select the code you want to blur
+3. click on apply blur in the sidebar
+4. 
+![alt text](<Peek 2025-05-03 10-21.gif>)
 
-1. Select a code section you want to blur
-2. Right-click and choose "Apply Blur Effect" or use the sidebar button
-3. Enter a blur intensity value between 0 and 1 (higher = more blur)
 
 ### Controlling Blur
 
